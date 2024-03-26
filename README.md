@@ -2,7 +2,7 @@
 this project is forked from https://github.com/markadev/AppleII-VGA
 
 **Main board**
-![Main board](docs/photos/carte_appleii_inside.jpg)
+![Main board](docs/photos/vue_ensemble2.jpg)
 
 **Connector board**
 you can use embedded DSUB-15 VGA connector or this adaptator , connected to HE10 connector
@@ -12,8 +12,11 @@ you can use embedded DSUB-15 VGA connector or this adaptator , connected to HE10
 ## Result on VGA monitor
 
 you can unse you AppleII VTA card in color mode 
+
 <img src="docs/photos/tetris_couleur_1.jpg" width="250" height="250"> <img src="docs/photos/tetris_couleur_2.jpg" width="250" height="250">
+
 or in monochrome mode
+
 <img src="docs/photos/tetris_vert_1.jpg" width="250" height="250"> <img src="docs/photos/tetris_vert_2.jpg" width="250" height="250">
 
 
